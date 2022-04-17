@@ -38,4 +38,8 @@ A esta información podés sumarle lo que quieras.
 - [WEB](https://lasdesistemas.org)
 - Comunidad transfeminista de mujeres, lesbianas, travestis, trans y no binaries, que trabajamos en la industria de la tecnología y tenemos como objetivos principales: visibilizarnos, potenciarnos, capacitarnos, contenernos y transformar nuestros espacios de trabajo en lugares inclusivos.
 
+### México
 
+#### Technolatinas
+- [WEB](https://technolatinas.org/) 
+- Comunidad que busca visibilizar, amplificar y empoderar más voces de cualquier persona que se identifique como latina en Tecnología por medio de una red de apoyo e iniciativas que inspiran y motivan a más mujeres.
