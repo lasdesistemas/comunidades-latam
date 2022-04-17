@@ -38,6 +38,11 @@ A esta información podés sumarle lo que quieras.
 - [WEB](https://lasdesistemas.org)
 - Comunidad transfeminista de mujeres, lesbianas, travestis, trans y no binaries, que trabajamos en la industria de la tecnología y tenemos como objetivos principales: visibilizarnos, potenciarnos, capacitarnos, contenernos y transformar nuestros espacios de trabajo en lugares inclusivos.
 
+#### Transistemas
+- [WEB](https://transistemas.org/)
+- Organización Social integrada por personas del colectivo LGTBI+. Decidimos actuar colaborativamente en pos de la inserción laboral de personas trans y no binaries en empleos formales del área de sistemas. Para ello realizamos cursos y capacitaciones gratuitas.
+
+
 ### México
 
 #### Technolatinas
